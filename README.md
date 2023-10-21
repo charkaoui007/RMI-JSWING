@@ -49,7 +49,10 @@ This project showcases the integration of RMI and Java Swing to create a distrib
 Click the image below to watch the video demonstration:
 
 
-Uploading 984e0bfa-2e9f-45b7-9fe5-7aaa25cc97b333.mp4…
+
+
+https://github.com/charkaoui007/RMI-JSWING/assets/119069223/811efccb-08b8-4969-be31-d101d183bf1c
+
 
 
 
